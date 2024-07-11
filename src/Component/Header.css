@@ -1,0 +1,10 @@
+*{
+  margin:0px;
+}
+header{
+  text-align:center;
+  background-color:#0b83f4;
+  color:white;
+  font-size:40px;
+  padding: 15px;
+}

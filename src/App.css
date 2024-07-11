@@ -1,0 +1,15 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+/* header {
+  display: flex;
+  text-align : center;
+  background-color : blue;
+  color : white;
+  padding : 10px;
+  height : 50px;
+  width : 70%;
+  justify-content : column;
+} */

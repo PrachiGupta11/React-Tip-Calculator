@@ -1,0 +1,29 @@
+#inputdiv{
+  text-align:center;
+  padding-top:40px
+}
+#input1{
+  width:600px;
+  margin:40px;
+  padding:5px;
+}
+hr{
+  margin-bottom:40px;
+}
+select{
+  height: 30px;
+  margin:10px;
+}
+#input2{
+  padding:3px;
+}
+button{
+  background-color:deepskyblue;
+  color:white;
+  border-color:deepskyblue;
+  border-radius:3px;
+  padding:6px;
+  margin:10px;
+  margin-bottom:50px;
+  font-weight:600;
+}
